@@ -1,63 +1,60 @@
 {
-  "users": [
+  "freelancers": [
     {
-      "userName": "tony start",
-      "email": "start@gmail.com",
-      "password": "132ijios",
-      "isDoctor": true,
+      "name": "",
+      "email": "",
+      "password": "",
+      "profession": "Student",
+      "skills": [
+        ""
+      ],
+      "hourly_rate": 0,
+      "profile_picture": "https://reqres.in/img/faces/1-image.jpg",
+      "isBooked": false,
       "id": 1
     },
     {
-      "userName": "steve",
-      "email": "cap@gmail.com",
-      "password": "klfjios",
-      "isDoctor": false,
+      "name": "",
+      "email": "",
+      "password": "",
+      "profession": "Student",
+      "skills": [
+        ""
+      ],
+      "hourly_rate": 0,
+      "profile_picture": "https://reqres.in/img/faces/1-image.jpg",
+      "isBooked": false,
       "id": 2
     },
     {
-      "userName": "",
-      "email": "",
-      "password": "",
-      "isDoctor": false,
-      "id": 3
-    },
-    {
-      "userName": "",
-      "email": "",
-      "password": "",
-      "isDoctor": false,
+      "name": "hjyiuujioj",
+      "email": "sndkjshd@hjgd",
+      "password": "k. dfkldfvdfkjf",
+      "profession": "Student",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "hourly_rate": 35,
+      "profile_picture": "https://reqres.in/img/faces/3-image.jpg",
+      "isBooked": false,
       "id": 4
     },
     {
-      "userName": "",
-      "email": "",
-      "password": "",
-      "isDoctor": false,
+      "name": "jcnhfdkjfdskjd",
+      "email": "jdskjlfdskj@kjfkl",
+      "password": "di;ljdfkhd",
+      "profession": "Web Developer",
+      "skills": [
+        "html",
+        " css",
+        " java"
+      ],
+      "hourly_rate": 454,
+      "profile_picture": "https://reqres.in/img/faces/3-image.jpg",
+      "isBooked": false,
       "id": 5
-    }
-  ],
-  "appointments": [
-    {
-      "name": "fvdfgdff",
-      "img": "sdfdg",
-      "special": "Dermatologist",
-      "exp": "4",
-      "loc": "sdfdsf",
-      "date": "2023-05-11",
-      "slots": "4",
-      "fee": "34324",
-      "id": 1
-    },
-    {
-      "name": "afdfg",
-      "img": "sdfdg",
-      "special": "Dermatologist",
-      "exp": 7,
-      "loc": "erwet",
-      "date": "2023-05-05",
-      "slots": 56,
-      "fee": 2876,
-      "id": 2
     }
   ]
 }
